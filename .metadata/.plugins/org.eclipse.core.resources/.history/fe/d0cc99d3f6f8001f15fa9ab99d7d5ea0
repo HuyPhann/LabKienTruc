@@ -1,0 +1,5 @@
+package com.journaldev.design.test;
+
+public class TestFactory {
+
+}
